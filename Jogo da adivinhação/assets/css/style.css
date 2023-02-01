@@ -1,0 +1,79 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    background-image: url("https://wallpaper-house.com/data/out/6/wallpaper2you_99603.jpg");
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+  
+.container {
+    text-align: center;
+    padding: 20px;
+}
+  
+.page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+}
+  
+.page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+}
+  
+.page-logo {
+    width: 200px;
+}
+  
+.alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+  
+body > img {
+    margin: 0 10px;
+}
+  
+img {
+    max-height: 250px;
+}
+  
+.box {
+    margin-top: 30px;
+}
+
+.inputs {
+    padding: 20px;
+}
+
+.inputStyle {
+    padding: 10px;
+    background-color: white;
+    border: none;
+    border-radius: 7px;
+}
+  
+.conversion {
+    margin-top: 20px;
+}
+
+.button-converter {
+    padding: 10px;
+    background-color: #831e0c;
+    border: none;
+    border-radius: 7px;
+    width: 250px;
+    font-size: 15px;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.95) 0px 5px 15px;
+}
+  
+h3 {
+    color: white;
+}
+  
